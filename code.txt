@@ -6,3 +6,5 @@ feature 1
   more functionality
 
   even more functionality
+
+  "I added  this, catch me if you can"
